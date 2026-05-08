@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GlobeMonZob.aternos.me:11656",
+    "ip": "GlobeMonZob.aternos.me",
     "port": 11656,
     "version": "",
     "try-creative": false
