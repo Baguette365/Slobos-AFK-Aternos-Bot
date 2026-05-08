@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "CharlesAunGrosZIZI",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MangeMonZgeg",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "GlobeMonZob.aternos.me",
+    "ip": "rooserfish.aternos.host",
     "port": 11656,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Charles à le plus gros paff de la pafflaxie",
+        "CHarles est le tigre de la savane",
+        "Charles en vrai c le goat"
       ]
     },
     "chat-log": true,
